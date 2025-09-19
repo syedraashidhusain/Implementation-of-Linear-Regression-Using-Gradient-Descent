@@ -1,9 +1,6 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
 
-Program to implement the linear regression using gradient descent.
-Developed by: M.syed raashid husain
-RegisterNumber: 25009038 
-```
+
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
@@ -64,7 +61,10 @@ To write a program to predict the profit of a city using the linear regression m
 
 #### Step 12: End
 ## Program:
-python
+```python
+Program to implement the linear regression using gradient descent.
+Developed by: M.syed raashid husain
+RegisterNumber: 25009038 
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
